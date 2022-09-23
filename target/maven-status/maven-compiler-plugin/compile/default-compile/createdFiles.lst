@@ -1,0 +1,8 @@
+com\phonecompany\billing\model\CallDetails.class
+com\phonecompany\billing\parser\PhoneParser.class
+com\phonecompany\billing\operator\CallDetailHelper.class
+com\phonecompany\billing\operator\TelephoneBillCalculator.class
+com\phonecompany\billing\parser\ParserFactorry.class
+com\phonecompany\billing\UsserBuillingApp.class
+com\phonecompany\billing\operator\OperatorTelephoneBillCalculator.class
+com\phonecompany\billing\operator\BillCalculatorSettings.class
